@@ -1,0 +1,15 @@
+.title {
+    text-align: left;
+    margin-bottom: 0;
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+
+.title:first-child {
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.selector {
+    width: 100%;
+}
